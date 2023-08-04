@@ -1,6 +1,6 @@
-# IITG stackoverflow
+# NITS stackoverflow
 
-![IITG-StackOverflow](https://socialify.git.ci/joat28/iitg-stack-overflow/image?description=1&descriptionEditable=IITG%20Stackoverflow&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
+![NITS-StackOverflow](https://socialify.git.ci/joat28/nits-stack-overflow/image?description=1&descriptionEditable=NITS%20Stackoverflow&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 ## Description
 We want to connect the people who have knowledge to the people who need it.  
@@ -24,7 +24,7 @@ This application requires [Node.js](https://nodejs.org/)
 
 1. Clone the project
     ```
-    git clone https://github.com/joat28/iitg-stack-overflow
+    git clone https://github.com/sandeshjava/nits-stack-overflow
     ```
 
 2. Create a `.env` file in ```/server``` folder, and setup [Environment Variables](environment-variables).
